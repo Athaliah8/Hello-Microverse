@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+Hello Microverse Project
 
 
 ## Built With
@@ -12,25 +12,19 @@
 - CSS
 
 
-
-
 ## Getting Started
-
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-A coode complier and vscode would work great.
+A code complier and vscode would work great.
 
 ### Setup
-Create a new repository on GitHub.com
-Open GitBash or any other Terminal
-Click Open with GitHub Desktop to clone and open the repository with GitHub Desktop.
- Follow the prompts in GitHub Desktop to complete the clone.
-
-
-
+Open Github and navigate to the main page of the repository.
+Under  the repo name click clone
+Copy the url for repository
+Go to your ide(editor) and in the terminal - git clone 
 
 
 ## Authors
