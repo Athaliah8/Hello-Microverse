@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-Hello Microverse Project
+Day 2 microverse project
 
 
 ## Built With
